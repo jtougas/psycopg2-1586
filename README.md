@@ -1,6 +1,6 @@
 # psycopg2-1586
 
-Reproduction of a problem described in https://github.com/jtougas/psycopg2-1586./
+Reproduction of a problem described in https://github.com/psycopg/psycopg2/issues/1586
 
 # `server-ssl-off.sh`
 ```
