@@ -1,5 +1,7 @@
 # psycopg2-1586
 
+Reproduction of a problem described in https://github.com/jtougas/psycopg2-1586./
+
 # `server-ssl-off.sh`
 ```
 root@8fb95946cce8:/workspaces/psycopg2-1586# python3 ./listener.py &
