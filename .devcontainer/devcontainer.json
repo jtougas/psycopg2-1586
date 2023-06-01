@@ -1,0 +1,5 @@
+{
+    "name": "psycopg2-1586",
+    "context": "..",
+    "dockerFile": "../Dockerfile"
+}
